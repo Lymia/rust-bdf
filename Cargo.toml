@@ -1,6 +1,6 @@
 [package]
-name    = "bdf"
-version = "0.7.0"
+name    = "bdf2"
+version = "0.7.1"
 edition = "2018"
 
 authors = ["meh. <meh@schizofreni.co>"]
